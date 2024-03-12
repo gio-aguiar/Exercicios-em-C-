@@ -1,0 +1,14 @@
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.exe
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.deps.json
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.runtimeconfig.json
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfoInputs.cache
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfo.cs
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\refint\Aula01Variaveis.dll
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.genruntimeconfig.cache
+C:\Users\giovanna\Documents\Estudos\ETEC has\DS\Aula01Variaveis\obj\Debug\net8.0\ref\Aula01Variaveis.dll
